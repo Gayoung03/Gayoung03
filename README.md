@@ -2,22 +2,22 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C3CE8,50:7B4FEA,100:4C6FFF&height=220&section=header&text=KWON%20GAYEONG&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%2F%20DATA%20%2F%20AGENT%20ENGINEER&descAlignY=56&descSize=18&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B6B3A,50:16A05D,100:7CB342&height=220&section=header&text=KWON%20GAYEONG&fontSize=46&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%2F%20DATA%20%2F%20AGENT%20ENGINEER&descAlignY=56&descSize=18&animation=fadeIn"/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=9C7CF4&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+work+in+real+workflows.;Data+Pipeline+%C2%B7+RAG+%C2%B7+LLM+%C2%B7+Multi-Agent;From+problem+definition+to+working+systems."
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=63D297&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+work+in+real+workflows.;Data+Pipeline+%C2%B7+RAG+%C2%B7+LLM+%C2%B7+Multi-Agent;From+problem+definition+to+working+systems."
 />
 
 <br/>
 
-<img src="https://img.shields.io/badge/Myongji%20University-Student-6C3CE8?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20%7C%20Agent-7B4FEA?style=flat-square"/>
-<img src="https://img.shields.io/badge/Seoul-Korea-4C6FFF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Myongji%20University-Student-0B6B3A?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20%7C%20Agent-16A05D?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seoul-Korea-7CB342?style=flat-square"/>
 
 <br/><br/>
 
 <a href="mailto:ooo7852@mju.ac.kr">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-6C3CE8?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-0B6B3A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Gayoung03">
@@ -26,8 +26,8 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Gayoung03&label=PROFILE+VIEWS&color=7B4FEA&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/Gayoung03?label=FOLLOWERS&style=flat-square&color=6C3CE8"/>
+<img src="https://komarev.com/ghpvc/?username=Gayoung03&label=PROFILE+VIEWS&color=16A05D&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/Gayoung03?label=FOLLOWERS&style=flat-square&color=0B6B3A"/>
 
 </div>
 
@@ -293,7 +293,7 @@ working_style:
 - **Type:** KCI-listed Journal Article
 - **Focus:** Multi-Agent System · Nickel Procurement · Decision Support · Supply Chain Management
 
-[![DBpia](https://img.shields.io/badge/DBpia-View%20Paper-6C3CE8?style=for-the-badge)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12921490)
+[![DBpia](https://img.shields.io/badge/DBpia-View%20Paper-0B6B3A?style=for-the-badge)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12921490)
 
 ---
 
@@ -306,25 +306,22 @@ working_style:
 | 🥇 **최우수상** | 명지대학교 AI 캡스톤디자인 포트폴리오 경진대회 · **2025.12.15** |
 | 🥉 **동상** | 2026 한국디지털콘텐츠학회 하계종합학술대회 대학생 논문경진대회 · **2026.07.03** |
 
-</div>
 
-> **Note:** 한국디지털콘텐츠학회 대학생 논문경진대회 동상은 위 한국정보기술학회 게재 논문과 별개의 연구 성과입니다.
+</div>
 
 ---
 
 # Certifications
 
-### Data
+<div align="center">
 
-<img src="https://img.shields.io/badge/ADsP-Data%20Analysis%20Semi--Professional-6C3CE8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ADsP-Data%20Analysis%20Semi--Professional-0B6B3A?style=for-the-badge"/>
 
-### Programming
+<img src="https://img.shields.io/badge/PCCE-Level%203-16A05D?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/PCCE-Level%203-7B4FEA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Computer%20Specialist-Level%202-7CB342?style=for-the-badge"/>
 
-### Office / Productivity
-
-<img src="https://img.shields.io/badge/Computer%20Specialist-Level%202-4C6FFF?style=for-the-badge"/>
+</div>
 
 ---
 
@@ -334,12 +331,12 @@ working_style:
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api?username=Gayoung03&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=Gayoung03&show_icons=true&hide_border=true&theme=merko&rank_icon=github"
 />
 
 <img
   height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayoung03&layout=compact&hide_border=true&theme=tokyonight"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayoung03&layout=compact&hide_border=true&theme=merko"
 />
 
 </div>
@@ -349,31 +346,7 @@ working_style:
 <div align="center">
 
 <img
-  src="https://streak-stats.demolab.com?user=Gayoung03&theme=tokyonight&hide_border=true"
-/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Gayoung03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6"
-/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Gayoung03&theme=tokyo-night&hide_border=true&area=true"
+  src="https://streak-stats.demolab.com?user=Gayoung03&theme=merko&hide_border=true"
 />
 
 </div>
@@ -424,7 +397,7 @@ open_to:
 ### Let's build AI systems that work beyond the demo.
 
 <a href="mailto:ooo7852@mju.ac.kr">
-  <img src="https://img.shields.io/badge/Gmail-ooo7852%40mju.ac.kr-6C3CE8?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-ooo7852%40mju.ac.kr-0B6B3A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Gayoung03">
@@ -441,4 +414,4 @@ open_to:
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4C6FFF,50:7B4FEA,100:6C3CE8&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7CB342,50:16A05D,100:0B6B3A&height=120&section=footer"/>
