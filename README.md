@@ -8,14 +8,6 @@
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=63D297&center=true&vCenter=true&width=850&lines=Building+AI+systems+that+work+in+real+workflows.;Data+Pipeline+%C2%B7+RAG+%C2%B7+LLM+%C2%B7+Multi-Agent;From+problem+definition+to+working+systems."
 />
 
-<br/>
-
-<img src="https://img.shields.io/badge/Myongji%20University-Student-0B6B3A?style=flat-square"/>
-<img src="https://img.shields.io/badge/Focus-AI%20%7C%20Data%20%7C%20Agent-16A05D?style=flat-square"/>
-<img src="https://img.shields.io/badge/Seoul-Korea-7CB342?style=flat-square"/>
-
-<br/><br/>
-
 <a href="mailto:ooo7852@mju.ac.kr">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-0B6B3A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -26,8 +18,6 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Gayoung03&label=PROFILE+VIEWS&color=16A05D&style=flat-square"/>
-<img src="https://img.shields.io/github/followers/Gayoung03?label=FOLLOWERS&style=flat-square&color=0B6B3A"/>
 
 </div>
 
@@ -285,7 +275,6 @@ working_style:
 
 **멀티 AI 에이전트 기반 니켈 조달 의사결정지원시스템 프레임워크 설계 및 개발**
 
-- **Authors:** 김선오 · 유지현 · 권가영
 - **Journal:** 한국정보기술학회논문지
 - **Volume / Issue:** 24(7)
 - **Published:** July 2026
@@ -303,8 +292,8 @@ working_style:
 
 | Recognition | Details |
 |---|---|
-| 🥇 **최우수상** | 명지대학교 AI 캡스톤디자인 포트폴리오 경진대회 · **2025.12.15** |
-| 🥉 **동상** | 2026 한국디지털콘텐츠학회 하계종합학술대회 대학생 논문경진대회 · **2026.07.03** |
+| 🥇 **Grand Prize** | 명지대학교 AI 캡스톤디자인 포트폴리오 경진대회 · **2025** |
+| 🥉 **Third Prize** | 2026 한국디지털콘텐츠학회 하계종합학술대회 대학생 논문경진대회 · **2026** |
 
 
 </div>
@@ -328,16 +317,6 @@ working_style:
 # GitHub Analytics
 
 <div align="center">
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=Gayoung03&show_icons=true&hide_border=true&theme=merko&rank_icon=github"
-/>
-
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gayoung03&layout=compact&hide_border=true&theme=merko"
-/>
 
 </div>
 
